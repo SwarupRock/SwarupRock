@@ -456,8 +456,6 @@
     <rect x="773" y="111" width="10" height="10" fill="#0C0D15" rx="2" stroke="#000000" stroke-width="0.5" />
     <rect x="773" y="125" width="10" height="10" fill="#524B00" rx="2" stroke="#000000" stroke-width="0.5" />
     <rect x="773" y="139" width="10" height="10" fill="#9E9000" rx="2" stroke="#000000" stroke-width="0.5" />
-  </g>
-
   <!-- Cyberpunk Neon Yellow Spaceship -->
   <g class="spaceship-group">
     <!-- Engine Particle Thruster Trail -->
